@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AngelsHaalo
+- 👀 I’m interested in reading, coding and gaming
+- 🌱 I’m currently learning JavaScript
+- 📫 My twt is @AnglesHaalo
